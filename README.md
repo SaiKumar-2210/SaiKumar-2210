@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaiKumar-2210
 - 👀 I’m interested in Areospace
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Web Development
+- 💞️ I’m looking to collaborate on ...Web Desgining
 - 📫 How to reach me saikumar22102005@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
